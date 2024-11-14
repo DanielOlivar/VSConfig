@@ -1,5 +1,5 @@
 <p align="center">
-# VSConfig
+VSConfig
 </p>
 Personalización de Visual Studio Code
 
