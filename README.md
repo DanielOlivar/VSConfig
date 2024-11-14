@@ -1,4 +1,4 @@
-## VSConfig
+# VSConfig
 Personalización de Visual Studio Code
 
 ## Extensiones utilizadas
