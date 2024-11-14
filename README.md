@@ -1,4 +1,6 @@
+<p align="center">
 # VSConfig
+</p>
 Personalización de Visual Studio Code
 
 ## Extensiones utilizadas
